@@ -5,7 +5,7 @@ version: 0.27.0
 description: opentelemetry demo helm chart
 home: https://opentelemetry.io/
 sources:
-  - https://github.com/open-telemetry/opentelemetry-demo
+  - https://github.com/dbado-sumologic/opentelemetry-demo
 maintainers:
   - name: dmitryax
   - name: puckpuck
