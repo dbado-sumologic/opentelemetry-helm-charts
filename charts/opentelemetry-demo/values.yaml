@@ -20,7 +20,7 @@ default:
     repository: ghcr.io/dbado-sumologic/open-telemetry/demo
     # Overrides the image tag whose default is the chart appVersion.
     # The service's name will be applied to the end of this value.
-    tag: ""
+    tag: "1.8.8"
     pullPolicy: IfNotPresent
     pullSecrets: []
   # Default # of replicas for all components
